@@ -1,0 +1,21 @@
+yo jhipster
+Microservice application
+Sprinh Webflux yes
+base name test
+port 9089
+java package com.test.app
+jhipster registry
+jwt authentication
+SQL(H2, MySql, Postgresql, Mssql)
+production mysql
+development h2 in memory persistence
+Maven
+Extra tech
+Elastisearch, Kafka
+Internationalization yes
+English native
+others Polish, Spanish
+Extra Cucumber
+
+./mvnw
+

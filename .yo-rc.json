@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.test.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "test",
+    "packageName": "com.test.app",
+    "packageFolder": "com/test/app",
+    "serverPort": "9089",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDEwOTk4NmM3MWM4YTE0Yzg2MTEwNTYzZTMxY2IwZDYyM2I2ODg2MWI4YzdjOTNlZDVhNzY2NTgyYTFlZjA5M2ZlYTFjNzVkMTVjZTY0ZjA2ODhjZTg2OTYyMzllMzg2YjE3ZmFlMWRhYzZlMjMyYTA3MmZhNDI3ZDNlNjUwODM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1594302589479,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "pl", "es"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
