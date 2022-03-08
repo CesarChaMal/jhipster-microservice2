@@ -51,7 +51,7 @@
         <hibernate.version>5.4.15.Final</hibernate.version>
         <!-- The liquibase version should match the one managed by
         https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-dependencies/${spring-boot.version} -->
-        <liquibase.version>3.9.0</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
         <r2dbc-h2.version>0.8.3.RELEASE</r2dbc-h2.version>
         <r2dbc-mysql.version>0.8.1.RELEASE</r2dbc-mysql.version>
         <spring-boot-starter-data-r2dbc.version>0.1.0.M3</spring-boot-starter-data-r2dbc.version>
